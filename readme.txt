@@ -1,9 +1,9 @@
 === JQuery Accessible Tree ===
-Contributors: Theofanis Oikonomou
+Contributors: Kontotasiou Dionysia
 Tags: accessible, WAI, ARIA, jquery, widgets
 Requires at least: 3.0.1
-Tested up to: 3.1
-Stable tag: 1.0
+Tested up to: 3.3.2
+Stable tag: 2.0
 
 JQuery Accessible Tree is a WAI-ARIA Enabled Tree Plugin for Wordpress
 
@@ -41,3 +41,5 @@ This work was supported by the [Informatics and Telematics Institute](http://www
 
 = 1.0 =
 * initial release
+= 2.0 =
+* Version 2.0
